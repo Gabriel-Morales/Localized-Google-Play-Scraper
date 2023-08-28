@@ -18,3 +18,5 @@ How to use:
 - Provide an application list (the identifiers) inside of the app_list.txt file.
 - Open an Android emulator on your computer WITH GOOGLE PLAY INSTALLED; or remotely control an Android phone through the computer.
 - Lauch the tool, provide a save path, and finally select the window of your Android phone process.
+
+![til](./IMG_1125.gif)
